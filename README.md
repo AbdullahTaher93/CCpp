@@ -1,6 +1,6 @@
 
 
-[![Build Status](https://travis-ci.org/AbdullahTaher93/CCMYproject.svg?branch=master)](https://travis-ci.org/AbdullahTaher93/CCMYproject)
+[![Build Status](https://travis-ci.org/AbdullahTaher93/CCpp.svg?branch=master)](https://travis-ci.org/AbdullahTaher93/CCpp)
 
 
 # Description
